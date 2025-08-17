@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit9github&label=Profile%20views&color=0e75b6&style=flat" alt="rohit9github" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **React js project**
 
